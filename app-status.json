@@ -1,4 +1,4 @@
 {
-  "status": "active",
-  "message": "Programm ist verfügbar."
+  "status": "deactivated",
+  "message": "DB AuftragsCenter ist aktuell wegen Wartungsarbeiten deaktiviert."
 }
