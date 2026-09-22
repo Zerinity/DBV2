@@ -1,4 +1,4 @@
 {
-  "status": "delete",
-  "message": "Diese Version ist nicht mehr gültig und wird entfernt."
+  "status": "activated",
+  "message": "Läuft"
 }
