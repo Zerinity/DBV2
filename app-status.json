@@ -1,4 +1,4 @@
 {
-  "status": "active",
-  "message": "Programm läuft"
+  "status": "deactivated",
+  "message": "Baustella!"
 }
